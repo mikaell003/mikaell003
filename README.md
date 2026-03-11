@@ -4,7 +4,7 @@
 
 ### 💻 Front-End Developer | 🚀 Web Platform Builder | 🌍 Kenya
 
-[![Projects](https://img.shields.io/badge/Projects-Active-brightgreen?style=for-the-badge&logo=github)](https://github.com/yourusername?tab=repositories)
+[![Projects](https://img.shields.io/badge/Projects-Active-brightgreen?style=for-the-badge&logo=github)](https://github.com/mikaell003?tab=repositories)
 [![Tech Stack](https://img.shields.io/badge/Tech-Stack-blue?style=for-the-badge&logo=codeigniter)](##-tech-stack)
 [![Contact Me](https://img.shields.io/badge/Contact-Me-orange?style=for-the-badge&logo=mail.ru)](##-contact-me)
 
