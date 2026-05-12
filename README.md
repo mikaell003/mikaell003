@@ -2,7 +2,7 @@
 
 # 👋 Hey, I'm Michael Owen
 
-### 💻 Front-End Developer | 🚀 Web Platform Builder | 🌍 Kenya
+### 💻 Full-Stack Developer | 🚀 Web Platform Builder | 🌍 Kenya
 
 [![Projects](https://img.shields.io/badge/Projects-Active-brightgreen?style=for-the-badge&logo=github)](https://github.com/mikaell003?tab=repositories)
 [![Tech Stack](https://img.shields.io/badge/Tech-Stack-blue?style=for-the-badge&logo=codeigniter)](##-tech-stack)
