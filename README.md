@@ -43,7 +43,7 @@ I'm a creative web developer with a passion for building **fun, chaotic, and vir
 
 | Project | Preview | Description | Links |
 | :--- | :--- | :--- | :--- |
-| **DevChaos.app** | <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="150px" alt="Project GIF"> | A chaotic playground for devs: roast code, generate bugs, and take on random challenges. | [🔗 Visit](https://devchaos.app) \| [📁 Repo](https://github.com/yourusername/devchaos) |
+| **Perfect10challenge** | <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="150px" alt="Project GIF"> | A chaotic playground for devs: roast code, generate bugs, and take on random challenges. | [🔗 Visit](https://perfect-10.netlify.app) \| [📁 Repo](https://github.com/mikaell003/perfect10) |
 | **PigaPicha.com** | <img src="https://media.giphy.com/media/l0HlOvJ7yaacpuSas/giphy.gif" width="150px" alt="Project GIF"> | A meme generator and social platform celebrating African internet culture. | [🔗 Visit](https://pigapicha.com) \| [📁 Repo](https://github.com/yourusername/pigapicha) |
 | **BanterChat.ke** | <img src="https://media.giphy.com/media/26BRv0ThflsHCqDrG/giphy.gif" width="150px" alt="Project GIF"> | The ultimate hub for English Premier League fan banter and discussions. | [🔗 Visit](https://banterchat.ke) \| [📁 Repo](https://github.com/yourusername/banterchat) |
 | **CampusCrush.ke** | <img src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" width="150px" alt="Project GIF"> | An anonymous platform for campus confessions, crushes, and polls. | [🔗 Visit](https://campuscrush.ke) \| [📁 Repo](https://github.com/yourusername/campuscrush) |
