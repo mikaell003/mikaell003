@@ -1,91 +1,241 @@
 <div align="center">
 
-# 👋 Hey, I'm Michael Owen
+# ⚡ Michael Owen
 
-### 💻 Full-Stack Developer | 🚀 Web Platform Builder | 🌍 Kenya
+### Building Weird, Viral & Fun Things on the Internet
 
-[![Projects](https://img.shields.io/badge/Projects-Active-brightgreen?style=for-the-badge&logo=github)](https://github.com/mikaell003?tab=repositories)
-[![Tech Stack](https://img.shields.io/badge/Tech-Stack-blue?style=for-the-badge&logo=codeigniter)](##-tech-stack)
-[![Contact Me](https://img.shields.io/badge/Contact-Me-orange?style=for-the-badge&logo=mail.ru)](##-contact-me)
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1000&color=00E7FF&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;Browser+Game+Creator;Startup+Builder;HTML+%2B+CSS+%2B+JavaScript+%2B+PHP;Building+the+next+internet+obsession..." />
 
-<img src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" width="400" alt="Coding fun GIF" />
+<br>
 
----
+![Profile Views](https://komarev.com/ghpvc/?username=mikaell003&style=for-the-badge&color=blueviolet)
 
-</div>
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/mikaell003)
 
-## 🧑‍💻 About Me
-
-I'm a creative web developer with a passion for building **fun, chaotic, and viral web platforms**. I love the energy of bringing unconventional ideas to life on the internet.
-
-- 🎓 Student at **KCA University**
-- 💡 Passionate about creating **viral web tools**
-- 🛠 Frontend: **HTML, CSS, JavaScript**
-- 💻 Backend: **PHP, MySQL**
-- 🚀 Constantly experimenting with **chaotic and engaging web concepts**
-
----
-
-## 🛠 Tech Stack
-
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-</p>
-
----
-
-## 🚀 Featured Projects
-
-| Project | Preview | Description | Links |
-| :--- | :--- | :--- | :--- |
-| **Perfect10challenge** | <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="150px" alt="Project GIF"> | A chaotic playground for devs: roast code, generate bugs, and take on random challenges. | [🔗 Visit](https://perfect-10.netlify.app) \| [📁 Repo](https://github.com/mikaell003/perfect10) |
-| **ShhMsger** | <img src="https://media.giphy.com/media/l0HlOvJ7yaacpuSas/giphy.gif" width="150px" alt="Project GIF"> | A meme generator and social platform celebrating African internet culture. | [🔗 Visit](https://shhmsger.netlify.app) \| [📁 Repo](https://github.com/mikaell003/shhmsger) |
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" height="170px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="170px" />
 </div>
 
 ---
 
-## 🎲 The Fun Side
+# 👨‍💻 Who Am I?
 
-- 🌟 **Always experimenting** with weird and wonderful web tools.
-- 🧨 My chaotic ideas have a habit of going viral.
-- 💬 **My motto:** *“Build fast, ship weird, and let the internet decide.”*
+I'm Michael Owen, a developer from Kenya who enjoys building things that make people stop scrolling and say:
+
+> "Wait... how did someone come up with this?"
+
+I specialize in:
+
+🎮 Browser Games
+
+🧠 Puzzle Experiences
+
+🚀 Startup Experiments
+
+🌍 Community Platforms
+
+🔥 Viral Internet Products
+
+Rather than copying existing apps, I enjoy creating unusual ideas people haven't seen before.
 
 ---
 
-## 📫 Let's Connect
+# ⚡ Current Mission
 
-I'm always open to collaborating on interesting projects or just having a chat about tech and chaos. Feel free to reach out!
+Building products that are:
 
-<p align="center">
-  <a href="https://github.com/yourusername">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="mailto:youremail@example.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  <a href="https://linkedin.com/in/yourusername">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-   <a href="https://your-portfolio-site.com">
-    <img src="https://img.shields.io/badge/portfolio-1AA2B0?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
-  </a>
-</p>
+✅ Fun
+
+✅ Shareable
+
+✅ Memorable
+
+✅ Lightweight
+
+✅ Internet-native
+
+My goal is simple:
+
+> Create experiences people immediately send to their friends.
+
+---
+
+# 🛠️ Tech Arsenal
+
+## Frontend
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+---
+
+## Backend
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+---
+
+## Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+![Apache NetBeans](https://img.shields.io/badge/Apache_NetBeans-1B6AC6?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)
+
+![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white)
+
+---
+
+# 🚀 Featured Creations
+
+<table>
+<tr>
+<td width="50%">
+
+## 🎯 Perfect10 Challenge
+
+Can you reach exactly 10?
+
+A simple concept that becomes surprisingly addictive.
+
+🔗 https://perfect-10.netlify.app
+
+</td>
+
+<td width="50%">
+
+## 🤫 ShhMsger
+
+Create secret messages that reveal themselves only when opened.
+
+A playful twist on private communication.
+
+🔗 https://shhmsger.netlify.app
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+## 🎮 Onyx Games
+
+A growing universe of browser games.
+
+Designed to be fast, fun and highly shareable.
+
+</td>
+
+<td width="50%">
+
+## 🏫 UniTime Planner
+
+Helping students organize classes, goals and academic life.
+
+</td>
+</tr>
+</table>
+
+---
+
+# 🌌 Startup Universe
+
+Current projects and experiments:
+
+```text
+🎮 Onyx Games
+🧠 Perfect10 Challenge
+🏫 UniTime Planner
+🇰🇪 Kenyan Community Platforms
+🎭 Viral Browser Games
+🚀 Experimental Web Products
+```
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mikaell003&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mikaell003&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mikaell003&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🧠 Things I Love Building
+
+```text
+🎮 Browser Games
+🧩 Puzzle Mechanics
+🌍 Community Platforms
+😂 Meme Products
+🚀 Startup MVPs
+⚡ Experimental Web Apps
+```
+
+---
+
+# 📈 2026 Goals
+
+- Launch 20+ web projects
+- Grow Onyx Games
+- Build a viral browser game
+- Contribute to open source
+- Reach 1,000 GitHub followers
+- Launch a profitable web product
+
+---
+
+# 💭 Builder Philosophy
+
+```javascript
+while(alive){
+    build();
+    launch();
+    learn();
+    improve();
+}
+```
+
+---
+
+# 🌍 Let's Connect
+
+### GitHub
+
+https://github.com/mikaell003
+
+### Email
+
+micoleowen59@gmail.com
+
+### Portfolio
+
+Coming Soon...
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&style=flat-square&color=blueviolet" alt="Profile Views" />
-  <p><em>Thanks for stopping by! Have a wonderfully chaotic day. 😄</em></p>
+
+## 🚀 Build Fast. Ship Weird.
+
+*"The internet rewards creators who create."*
+
+⭐ Star a repository if something made you smile.
+
 </div>
