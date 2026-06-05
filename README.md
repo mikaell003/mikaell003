@@ -106,6 +106,19 @@ A simple concept that becomes surprisingly addictive.
 
 <td width="50%">
 
+## GridLock Game
+
+Clear colored blocks strategically before the board fills.
+
+A simple concept that becomes surprisingly addictive.
+
+🔗 https://mikaell003/github.io/gridlock
+
+</td>
+
+<td width="50%">
+
+
 ## 🤫 ShhMsger
 
 Create secret messages that reveal themselves only when opened.
