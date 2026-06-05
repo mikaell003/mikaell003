@@ -112,7 +112,7 @@ Clear colored blocks strategically before the board fills.
 
 A simple concept that becomes surprisingly addictive.
 
-🔗 https://mikaell003/github.io/gridlock
+🔗 https://mikaell003.github.io/gridlock/
 
 </td>
 
