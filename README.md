@@ -59,7 +59,7 @@ A collection of lightweight browser tools for productivity and daily tasks.
 
 **Stack:** HTML • CSS • JavaScript
 
-🔗 Live Demo (zazusmarttoolbox.netlify.app)
+🔗 Live Demo (https://zazusmarttoolbox.netlify.app)
 
 ---
 
@@ -68,7 +68,7 @@ Secure messaging system with auto-reveal encrypted messages.Turns text invisible
 
 **Stack:** HTML5 CSS3 • JavaScript
 
-🔗 Live Demo (shhmsger.netlify.app)
+🔗 Live Demo (https://shhmsger.netlify.app)
 
 </td>
 
@@ -88,7 +88,7 @@ Addictive math puzzle game where players must reach exactly 10.
 
 **Stack:** HTML5 • CSS . JavaScript 
 
-🎮 Play Now (Perfect-10.netlify.app)
+🎮 Play Now (https://Perfect-10.netlify.app)
 
 </td>
 </tr>
