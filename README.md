@@ -1,174 +1,80 @@
 <div align="center">
 
-# ⚡ Michael Owen
+# 👋 Michael Owen
 
-### Building Weird, Viral & Fun Things on the Internet
+### Full-Stack Web Developer | Laravel • React • JavaScript • MySQL
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1000&color=00E7FF&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;Browser+Game+Creator;Startup+Builder;HTML+%2B+CSS+%2B+JavaScript+%2B+PHP;Building+the+next+internet+obsession..." />
-
-<br>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=00E7FF&center=true&vCenter=true&width=700&lines=Laravel+Developer;React+Learner;Full-Stack+Web+Developer;Building+Real+World+Web+Apps" />
 
 ![Profile Views](https://komarev.com/ghpvc/?username=mikaell003&style=for-the-badge&color=blueviolet)
-
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/mikaell003)
 
 </div>
 
 ---
 
-# 👨‍💻 Who Am I?
+## 👨‍💻 About Me
 
-I'm Michael Owen, a developer from Kenya who enjoys building things that make people stop scrolling and say:
+I am a **Full-Stack Web Developer from Kenya** focused on building scalable, user-friendly web applications using modern technologies.
 
-> "Wait... how did someone come up with this?"
+I enjoy turning ideas into real products and improving them through continuous development and learning.
 
-I specialize in:
-
-🎮 Browser Games
-
-🧠 Puzzle Experiences
-
-🚀 Startup Experiments
-
-🌍 Community Platforms
-
-🔥 Viral Internet Products
-
-Rather than copying existing apps, I enjoy creating unusual ideas people haven't seen before.
+- 🌱 Currently learning **React & Node.js**
+- 💻 Experienced with **Laravel, PHP, JavaScript, MySQL**
+- 🚀 Passionate about building web apps and browser-based tools
+- 🎯 Focused on becoming a strong full-stack engineer
 
 ---
 
-# ⚡ Current Mission
+## 🛠 Tech Stack
 
-Building products that are:
-
-✅ Fun
-
-✅ Shareable
-
-✅ Memorable
-
-✅ Lightweight
-
-✅ Internet-native
-
-My goal is simple:
-
-> Create experiences people immediately send to their friends.
-
----
-
-# 🛠️ Tech Arsenal
-
-## Frontend
-
+### Frontend
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
----
-
-## Backend
-
+### Backend
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
----
-
-## Tools
-
+### Development Environment
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-![Apache NetBeans](https://img.shields.io/badge/Apache_NetBeans-1B6AC6?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)
-
-![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![Laragon](https://img.shields.io/badge/Laragon-0E83CD?style=for-the-badge)
+![Apache NetBeans](https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)
 
 ---
 
-# 🚀 Featured Creations
+## 🚀 Featured Projects
 
-<table>
-<tr>
-<td width="50%">
-
-## 🎯 Perfect10 Challenge
-
-Can you reach exactly 10?
-
-A simple concept that becomes surprisingly addictive.
+### 🎯 Perfect10 Challenge
+A simple but addictive puzzle game where players try to reach exactly 10.
 
 🔗 https://perfect-10.netlify.app
 
-</td>
+---
 
-<td width="50%">
-
-## GridLock Game
-
-Clear colored blocks strategically before the board fills.
-
-A simple concept that becomes surprisingly addictive.
+### 🧩 GridLock
+A strategy-based browser puzzle game focused on logic and planning.
 
 🔗 https://mikaell003.github.io/gridlock/
 
-</td>
+---
 
-<td width="50%">
-
-
-## 🤫 ShhMsger
-
-Create secret messages that reveal themselves only when opened.
-
-A playful twist on private communication.
+### 🤫 ShhMsger
+A fun web app for creating secret messages that reveal only when opened.
 
 🔗 https://shhmsger.netlify.app
 
-</td>
-</tr>
+---
 
-<tr>
-<td width="50%">
-
-## 🎮 Onyx Games
-
-A growing universe of browser games.
-
-Designed to be fast, fun and highly shareable.
-
-</td>
-
-<td width="50%">
-
-## 🏫 UniTime Planner
-
-Helping students organize classes, goals and academic life.
-
-</td>
-</tr>
-</table>
+### 🏫 UniTime Planner
+A student productivity tool for managing classes, goals, and academic planning.
 
 ---
 
-# 🌌 Startup Universe
-
-Current projects and experiments:
-
-```text
-🎮 Onyx Games
-🧠 Perfect10 Challenge
-🏫 UniTime Planner
-🇰🇪 Kenyan Community Platforms
-🎭 Viral Browser Games
-🚀 Experimental Web Products
-```
-
----
-
-# 📊 GitHub Analytics
+## 📊 GitHub Stats
 
 <div align="center">
 
@@ -180,7 +86,7 @@ Current projects and experiments:
 
 ---
 
-# 🔥 GitHub Streak
+## 🔥 GitHub Streak
 
 <div align="center">
 
@@ -190,65 +96,37 @@ Current projects and experiments:
 
 ---
 
-# 🧠 Things I Love Building
+## 🌱 Currently Learning
 
-```text
-🎮 Browser Games
-🧩 Puzzle Mechanics
-🌍 Community Platforms
-😂 Meme Products
-🚀 Startup MVPs
-⚡ Experimental Web Apps
-```
+- React (Advanced)
+- Node.js
+- REST APIs
+- Full-Stack Architecture
+- Deployment & DevOps Basics
 
 ---
 
-# 📈 2026 Goals
+## 🎯 2026 Goals
 
-- Launch 20+ web projects
-- Grow Onyx Games
-- Build a viral browser game
-- Contribute to open source
-- Reach 1,000 GitHub followers
-- Launch a profitable web product
-
----
-
-# 💭 Builder Philosophy
-
-```javascript
-while(alive){
-    build();
-    launch();
-    learn();
-    improve();
-}
-```
+- Build 10+ production-ready web apps
+- Master Laravel + React full-stack development
+- Contribute to open source projects
+- Launch a scalable web product
+- Grow a strong developer portfolio
 
 ---
 
-# 🌍 Let's Connect
+## 📫 Contact Me
 
-### GitHub
-
-https://github.com/mikaell003
-
-### Email
-
-micoleowen59@gmail.com
-
-### Portfolio
-
-Coming Soon...
+- GitHub: https://github.com/mikaell003  
+- Email: micoleowen59@gmail.com  
 
 ---
 
 <div align="center">
 
-## 🚀 Build Fast. Ship Weird.
+## 🚀 Code. Build. Ship. Repeat.
 
-*"The internet rewards creators who create."*
-
-⭐ Star a repository if something made you smile.
+*"Focused on building real-world web solutions."*
 
 </div>
