@@ -79,7 +79,7 @@ Strategic puzzle game focused on logic, movement, and pattern solving.
 
 **Stack:** HTML5 Canvas • JavaScript
 
-🎮 Play Now (https://mikaell003.github.io/gridlock/)
+🎮 Play Now (https://gridlok.netlify.app/)
 
 ---
 
