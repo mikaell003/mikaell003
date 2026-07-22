@@ -1,12 +1,10 @@
 <div align="center">
 
-# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="35" height="35" /> Hey, I'm Michael Owen
+# Hey, I'm Michael Owen 👋
 
-### 🚀 Full-Stack Web Developer | Laravel • React • JavaScript • MySQL
+### Full-Stack Developer building lean, monetizable web products for African markets
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Full-Stack+Web+Developer;Laravel+%7C+React+%7C+JavaScript+%7C+MySQL;Building+Fast%2C+Clean+%26+Scalable+Web+Apps;Turning+Ideas+Into+Real+Digital+Products" />
-
-🚀 *I build clean, fast, and scalable web applications that solve real problems.*
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=00F7FF&center=true&vCenter=true&width=650&lines=Laravel+%7C+PHP+%7C+React+%7C+MySQL;M-Pesa+%2B+WhatsApp-native+by+default;Founder+%40+RunwiresICT;Ship+fast.+Stay+lean.+Repeat." />
 
 ![Profile views](https://komarev.com/ghpvc/?username=mikaell003&label=Profile%20Views&color=0e75b6&style=flat)
 
@@ -14,125 +12,110 @@
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="30" height="30" /> About Me
+### About Me
 
-I'm a **Full-Stack Web Developer based in Kenya**, focused on building modern, scalable, and user-friendly web applications.
+I'm a full-stack developer based in Kenya, running **RunwiresICT**, my development agency. I build tools that assume M-Pesa and WhatsApp as core infrastructure — not afterthoughts — for Kenyan and African sellers and users.
 
-I enjoy turning ideas into real products — from simple tools to full platforms.
+I favor single-file, deploy-same-day products over over-architected systems. If it can ship lean and still make money, that's the win condition.
 
-- ⚡ Currently exploring: Advanced React, Node.js, API architecture
-- 🧠 Strong with: Laravel, PHP, MySQL, JavaScript
-- 🎯 Mission: Build products people actually use and enjoy
-- 🧩 Passion: Creative web tools, games, and interactive systems
+- 🛠 Building informal-market SaaS: payment pages, WhatsApp storefronts, order tools
+- 🎮 Shipping browser games and viral novelty products on the side
+- 🎯 Mission: build things people actually use — and that actually earn
+- 🇰🇪 Local-first design: M-Pesa, matatus, Sheng, WhatsApp commerce
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="30" height="30" /> Tech Stack
+### Tech Stack
 
-### 🌐 Frontend
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-
-### ⚙️ Backend
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-### 🧰 Tools & Workflow
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Laragon](https://img.shields.io/badge/Laragon-0E83CD?style=for-the-badge&logo=laragon&logoColor=white)
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" alt="Rocket" width="30" height="30" /> Featured Projects
+### Featured Products
 
 <table>
-  <tr>
-    <td width="50%">
+<tr>
+<td width="50%" valign="top">
 
-### 🧠 Zazu Smart Toolbox
-A collection of lightweight browser tools for productivity and daily tasks.
+**💸 PayCopy**
+Ephemeral M-Pesa payment page — no database, receipt-style aesthetic. Built to stay disposable and lean.
 
-**Stack:** HTML • CSS • JavaScript
-
-🔗 [Live Demo](https://zazusmarttoolbox.netlify.app)
+🔗 `add-your-link-here`
 
 ---
 
-### 💬 ShhMsger
-Secure messaging system with auto-reveal encrypted messages. Turns text invisible using zero width characters.
+**🛍 MiniShop**
+WhatsApp storefront builder for informal sellers, with a premium dark/amber design system.
 
-**Stack:** HTML5 • CSS3 • JavaScript
-
-🔗 [Live Demo](https://shhmsger.netlify.app)
+🔗 `add-your-link-here`
 
 </td>
+<td width="50%" valign="top">
 
-<td width="50%">
-
-### 🧩 GridLock
-Strategic puzzle game focused on logic, movement, and pattern solving.
-
-**Stack:** HTML5 Canvas • JavaScript
+**🧩 GridLok**
+Color-fusion puzzle game — logic, movement, pattern-solving.
 
 🎮 [Play Now](https://gridlok.netlify.app/)
 
 ---
 
-### 🔟 Perfect10 Challenge
-Addictive math puzzle game where players must reach exactly 10.
+**🇰🇪 Neno la Leo**
+Swahili Wordle, built on Supabase + Vercel.
 
-**Stack:** HTML5 • CSS3 • JavaScript
-
-🎮 [Play Now](https://Perfect-10.netlify.app)
+🔗 `add-your-link-here`
 
 </td>
 </tr>
 </table>
 
+**Also shipped:** BizCard.ke (AI WhatsApp Business profile generator) · OrderSnap (WhatsApp/Instagram order management) · QR Weave (kitenge-styled QR + M-Pesa presets) · SnakeButWrong · Perfect 10
+
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Bar Chart" width="30" height="30" /> GitHub Analytics
+### RunwiresICT
+
+My development agency, building web products and client sites — including the RunwiresICT site itself, designed around a matatu route board concept.
+
+🔗 `add-your-agency-link-here`
+
+---
+
+### GitHub Analytics
 
 <div align="center">
-
 <img src="https://github-readme-stats.vercel.app/api?username=mikaell003&show_icons=true&theme=tokyonight" height="180" alt="GitHub Stats"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mikaell003&layout=compact&theme=tokyonight" height="180" alt="Top Languages"/>
-
 <br/>
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=mikaell003&theme=tokyonight" alt="GitHub Streak"/>
-
 </div>
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Dart.png" alt="Dart" width="30" height="30" /> 2026 Goals
+### 2026 Goals
 
-- 🚀 Build 10+ real-world production apps
-- ⚛️ Master React + Laravel (Inertia.js ecosystem)
+- 🚀 Ship 10+ real-world production apps
+- ⚛️ Deepen React + Laravel (Inertia.js) fluency
 - 🔗 Design and deploy scalable REST APIs
-- 🌍 Contribute to open-source projects
-- 💡 Launch at least 1 viral web product
+- 💡 Land one genuinely viral product
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Link.png" alt="Link" width="30" height="30" /> Let's Connect
+### Let's Connect
 
-- 💻 **GitHub:** [github.com/mikaell003](https://github.com/mikaell003)
-- 📧 **Email:** [micoleowen59@gmail.com](mailto:micoleowen59@gmail.com)
-- 🌍 **Location:** Kenya
-
----
+- 💻 GitHub: [github.com/mikaell003](https://github.com/mikaell003)
+- 📧 Email: [micoleowen59@gmail.com](mailto:micoleowen59@gmail.com)
+- 🌍 Location: Kenya
 
 <div align="center">
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Technologist.png" alt="Man Technologist" width="30" height="30" /> Code. Build. Break. Improve. Repeat.
-
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="30" height="30" /> *Let's build something amazing together.*
+*Code. Build. Break. Improve. Repeat.*
 
 </div>
