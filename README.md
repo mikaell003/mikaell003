@@ -46,14 +46,14 @@ I favor single-file, deploy-same-day products over over-architected systems. If 
 **💸 PayCopy**
 Ephemeral M-Pesa payment page — no database, receipt-style aesthetic. Built to stay disposable and lean.
 
-🔗 `add-your-link-here`
+🔗 `[Play Now](https://paycopy.page.gd/)
 
 ---
 
 **🛍 MiniShop**
 WhatsApp storefront builder for informal sellers, with a premium dark/amber design system.
 
-🔗 `add-your-link-here`
+
 
 </td>
 <td width="50%" valign="top">
@@ -65,24 +65,14 @@ Color-fusion puzzle game — logic, movement, pattern-solving.
 
 ---
 
-**🇰🇪 Neno la Leo**
-Swahili Wordle, built on Supabase + Vercel.
-
-🔗 `add-your-link-here`
 
 </td>
 </tr>
 </table>
 
-**Also shipped:** BizCard.ke (AI WhatsApp Business profile generator) · OrderSnap (WhatsApp/Instagram order management) · QR Weave (kitenge-styled QR + M-Pesa presets) · SnakeButWrong · Perfect 10
+**Also shipped:SnakeButWrong · Perfect 10
 
 ---
-
-### RunwiresICT
-
-My development agency, building web products and client sites — including the RunwiresICT site itself, designed around a matatu route board concept.
-
-🔗 `add-your-agency-link-here`
 
 ---
 
