@@ -14,7 +14,7 @@
 
 ### About Me
 
-I'm a full-stack developer based in Kenya, running **RunwiresICT**, my development agency. I build tools that assume M-Pesa and WhatsApp as core infrastructure — not afterthoughts — for Kenyan and African sellers and users.
+I'm a full-stack developer based in Kenya. I build tools that assume M-Pesa and WhatsApp as core infrastructure — not afterthoughts — for Kenyan and African sellers and users.
 
 I favor single-file, deploy-same-day products over over-architected systems. If it can ship lean and still make money, that's the win condition.
 
@@ -46,7 +46,7 @@ I favor single-file, deploy-same-day products over over-architected systems. If 
 **💸 PayCopy**
 Ephemeral M-Pesa payment page — no database, receipt-style aesthetic. Built to stay disposable and lean.
 
-🔗 `[Play Now](https://paycopy.page.gd/)
+🔗 `[VISIT](https://paycopy.page.gd/)
 
 ---
 
